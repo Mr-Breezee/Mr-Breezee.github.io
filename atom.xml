@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world"/>
-    <id>http://yoursite.com/hello-world</id>
+    <link href="http://yoursite.com/hello-world/"/>
+    <id>http://yoursite.com/hello-world/</id>
     <published>2020-07-16T03:36:38.541Z</published>
     <updated>2020-07-16T03:36:38.542Z</updated>
     
