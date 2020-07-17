@@ -18,8 +18,8 @@
   
   <entry>
     <title>tags</title>
-    <link href="http://yoursite.com/2020/07/17/tags/"/>
-    <id>http://yoursite.com/2020/07/17/tags/</id>
+    <link href="http://yoursite.com/tags"/>
+    <id>http://yoursite.com/tags</id>
     <published>2020-07-17T15:28:10.000Z</published>
     <updated>2020-07-17T15:28:10.608Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/16/hello-world/"/>
-    <id>http://yoursite.com/2020/07/16/hello-world/</id>
+    <link href="http://yoursite.com/hello-world"/>
+    <id>http://yoursite.com/hello-world</id>
     <published>2020-07-16T03:36:38.541Z</published>
     <updated>2020-07-16T03:36:38.542Z</updated>
     
