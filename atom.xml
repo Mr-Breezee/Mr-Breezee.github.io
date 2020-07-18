@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-18T17:17:44.683Z</updated>
+  <updated>2020-07-18T17:04:10.598Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日安，这里是飘君的粮仓</title>
+    <link href="http://yoursite.com/about/"/>
+    <id>http://yoursite.com/about/</id>
+    <published>2020-07-18T09:35:00.000Z</published>
+    <updated>2020-07-18T17:04:10.598Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;这里是我的老福特号。不会直接放弃那里搬过来，这里会作为粮仓使用。&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;@飘君&lt;/strong&gt;&lt;cite&gt;&lt;a href=&quot;https://mr-breeze.lofter.com/&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="飘君闲拉呱" scheme="http://yoursite.com/tags/%E9%A3%98%E5%90%9B%E9%97%B2%E6%8B%89%E5%91%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>日安，这里是飘君的粮仓</title>
