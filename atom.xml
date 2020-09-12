@@ -328,9 +328,9 @@
       <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
     
     
-      <category term="alllof" scheme="http://yoursite.com/tags/alllof/"/>
-    
       <category term="R" scheme="http://yoursite.com/tags/R/"/>
+    
+      <category term="alllof" scheme="http://yoursite.com/tags/alllof/"/>
     
   </entry>
   
