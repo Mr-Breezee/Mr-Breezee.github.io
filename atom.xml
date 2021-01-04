@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-31T11:42:31.848Z</updated>
+  <updated>2021-01-04T06:56:09.427Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>雪：落火！</title>
+    <link href="http://yoursite.com/xueluohuo/"/>
+    <id>http://yoursite.com/xueluohuo/</id>
+    <published>2021-01-04T06:55:00.000Z</published>
+    <updated>2021-01-04T06:56:09.427Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Attention：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;仿僵尸文学（僵尸文学：微博上大量的僵尸号为了不被回收，会利用大数据随机抓取词汇，生成一些前言不搭后语的语句）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;G向&lt;/strong&gt;注意&lt;/p&gt;
+&lt;p&gt;对不起了，在新年主题里写这种东西（毫无歉意地）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>2020年度总结</title>
@@ -510,29 +532,6 @@
       <category term="全职高手" scheme="http://yoursite.com/tags/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B/"/>
     
       <category term="喻黄" scheme="http://yoursite.com/tags/%E5%96%BB%E9%BB%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人类江湖。</title>
-    <link href="http://yoursite.com/renleijianghu/"/>
-    <id>http://yoursite.com/renleijianghu/</id>
-    <published>2020-08-03T16:00:00.000Z</published>
-    <updated>2020-09-12T16:07:50.996Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;角色原创，人类一败涂地背景，没头没脑，思想邪道，没有影射，节奏把握很烂。&lt;/p&gt;
-&lt;p&gt;生日快乐，我的挚友女士。 @Farber &lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt; &amp;emsp;&lt;/p&gt;
-&lt;p&gt;“哎。”她突然说，“好想做个江湖中人啊。”&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
-    
     
   </entry>
   
