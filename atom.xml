@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-01-29T09:12:22.928Z</updated>
+  <updated>2022-02-08T08:36:10.368Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【瓜瓜乐】Still Here（长相左右）</title>
+    <link href="http://yoursite.com/stillhere/"/>
+    <id>http://yoursite.com/stillhere/</id>
+    <published>2022-02-08T08:31:00.000Z</published>
+    <updated>2022-02-08T08:36:10.368Z</updated>
+    
+    <summary type="html">
+    
+      本篇含成人向内容，点击即默认您已同意看到此类内容。请输入密码以访问。
+    
+    </summary>
+    
+    
+      <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
+    
+    
+      <category term="瓜瓜乐" scheme="http://yoursite.com/tags/%E7%93%9C%E7%93%9C%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【瓜瓜乐】驯服</title>
     <link href="http://yoursite.com/xunfu/"/>
     <id>http://yoursite.com/xunfu/</id>
     <published>2022-01-29T08:52:00.000Z</published>
-    <updated>2022-01-29T09:12:22.928Z</updated>
+    <updated>2022-02-08T08:40:49.859Z</updated>
     
     <summary type="html">
     
@@ -479,30 +500,6 @@
       <category term="王杰希" scheme="http://yoursite.com/tags/%E7%8E%8B%E6%9D%B0%E5%B8%8C/"/>
     
       <category term="KB" scheme="http://yoursite.com/tags/KB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【博物志 67】憨批巴拉的期末考前中后</title>
-    <link href="http://yoursite.com/bowuzhi_67/"/>
-    <id>http://yoursite.com/bowuzhi_67/</id>
-    <published>2020-10-28T15:29:00.000Z</published>
-    <updated>2020-10-28T15:32:48.754Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;1.&lt;/p&gt;
-&lt;p&gt;随着期末考试逐渐靠近，&lt;/p&gt;
-&lt;p&gt;26班人再嘻嘻哈哈&lt;/p&gt;
-&lt;p&gt;身体上的紧张反馈也是诚实的。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="【全职高手】荣耀26班博物志" scheme="http://yoursite.com/categories/%E3%80%90%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B%E3%80%91%E8%8D%A3%E8%80%8026%E7%8F%AD%E5%8D%9A%E7%89%A9%E5%BF%97/"/>
-    
-    
-      <category term="全职高手" scheme="http://yoursite.com/tags/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B/"/>
     
   </entry>
   
