@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-09-17T18:32:35.909Z</updated>
+  <updated>2022-09-28T12:17:01.936Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/zizhili/"/>
     <id>http://yoursite.com/zizhili/</id>
     <published>2022-09-08T16:31:00.000Z</published>
-    <updated>2022-09-17T18:32:35.909Z</updated>
+    <updated>2022-09-28T12:17:01.936Z</updated>
     
     <summary type="html">
     
@@ -32,6 +32,8 @@
     
       <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
     
+    
+      <category term="R" scheme="http://yoursite.com/tags/R/"/>
     
       <category term="反派初始化" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%B4%BE%E5%88%9D%E5%A7%8B%E5%8C%96/"/>
     
@@ -44,7 +46,7 @@
     <link href="http://yoursite.com/guaishou22/"/>
     <id>http://yoursite.com/guaishou22/</id>
     <published>2022-08-17T00:12:00.000Z</published>
-    <updated>2022-08-18T09:56:09.762Z</updated>
+    <updated>2022-09-28T12:17:13.740Z</updated>
     
     <summary type="html">
     
@@ -54,6 +56,8 @@
     
     
       <category term="番茄散蛋花汤" scheme="http://yoursite.com/categories/%E7%95%AA%E8%8C%84%E6%95%A3%E8%9B%8B%E8%8A%B1%E6%B1%A4/"/>
+    
+      <category term="R" scheme="http://yoursite.com/categories/%E7%95%AA%E8%8C%84%E6%95%A3%E8%9B%8B%E8%8A%B1%E6%B1%A4/R/"/>
     
     
   </entry>
@@ -163,7 +167,7 @@
     <link href="http://yoursite.com/xlghysc/"/>
     <id>http://yoursite.com/xlghysc/</id>
     <published>2022-05-28T19:14:00.000Z</published>
-    <updated>2022-05-28T19:16:17.277Z</updated>
+    <updated>2022-09-28T12:17:29.936Z</updated>
     
     <summary type="html">
     
@@ -175,6 +179,8 @@
       <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
     
       <category term="车卡oc" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/%E8%BD%A6%E5%8D%A1oc/"/>
+    
+      <category term="R" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/%E8%BD%A6%E5%8D%A1oc/R/"/>
     
     
   </entry>
@@ -184,7 +190,7 @@
     <link href="http://yoursite.com/yan/"/>
     <id>http://yoursite.com/yan/</id>
     <published>2022-04-08T00:12:00.000Z</published>
-    <updated>2022-04-09T14:59:48.378Z</updated>
+    <updated>2022-09-28T12:17:36.675Z</updated>
     
     <summary type="html">
     
@@ -196,6 +202,8 @@
       <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
     
       <category term="车卡oc" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/%E8%BD%A6%E5%8D%A1oc/"/>
+    
+      <category term="R" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/%E8%BD%A6%E5%8D%A1oc/R/"/>
     
     
   </entry>
@@ -226,7 +234,7 @@
     <link href="http://yoursite.com/xunfu/"/>
     <id>http://yoursite.com/xunfu/</id>
     <published>2022-01-29T08:52:00.000Z</published>
-    <updated>2022-02-08T08:40:49.859Z</updated>
+    <updated>2022-09-28T12:19:55.616Z</updated>
     
     <summary type="html">
     
