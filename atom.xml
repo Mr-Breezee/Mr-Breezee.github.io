@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2022-12-17T18:04:08.628Z</updated>
+  <updated>2023-01-01T08:30:37.300Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022年度总结</title>
+    <link href="http://yoursite.com/2022ndzj/"/>
+    <id>http://yoursite.com/2022ndzj/</id>
+    <published>2022-12-31T11:12:25.000Z</published>
+    <updated>2023-01-01T08:30:37.300Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;总结图片来咯&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="总结" scheme="http://yoursite.com/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>【暮辰】自制力</title>
@@ -472,32 +491,6 @@
       <category term="咒术回战" scheme="http://yoursite.com/tags/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98/"/>
     
       <category term="宿伏" scheme="http://yoursite.com/tags/%E5%AE%BF%E4%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【兰暦】四次兰加想亲吻历，一次他吻到了</title>
-    <link href="http://yoursite.com/scljxqwlyctwdl/"/>
-    <id>http://yoursite.com/scljxqwlyctwdl/</id>
-    <published>2021-02-13T07:54:00.000Z</published>
-    <updated>2021-02-13T07:57:44.179Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;Attention：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;兰暦，一块钱绿粉可以当友情，段子体，沙雕甜相声，一发完&lt;/p&gt;
-&lt;p&gt;原作向，时间线认识miya后，人物印象仅来自于五集动画且出于喜剧效果考虑必有ooc，相关内容瞎写经不起考据，为打字方便文中打“历”字&lt;/p&gt;
-&lt;p&gt;正好凑上生贺，兰加生日快乐——&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
-    
-    
-      <category term="sk8" scheme="http://yoursite.com/tags/sk8/"/>
-    
-      <category term="兰历" scheme="http://yoursite.com/tags/%E5%85%B0%E5%8E%86/"/>
     
   </entry>
   
