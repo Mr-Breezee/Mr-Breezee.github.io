@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-01-13T15:44:57.578Z</updated>
+  <updated>2023-04-30T08:58:35.472Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【番茄散蛋花汤|all怪】妈妈</title>
+    <title>妈妈。</title>
+    <link href="http://yoursite.com/mama/"/>
+    <id>http://yoursite.com/mama/</id>
+    <published>2023-04-30T09:15:00.000Z</published>
+    <updated>2023-04-30T08:58:35.472Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;attention：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;给枣枣的生日礼物变成的电子版&lt;/p&gt;
+&lt;p&gt;原创角色，原创世界观，想代也可以&lt;/p&gt;
+&lt;p&gt;克系，恋母，身体改造暗示，纯爱（确信），总之就是很扭曲，如果产生不适请及时退出&lt;/p&gt;
+&lt;p&gt;我真的很爱这种天真
+        
+      
+    
+    </summary>
+    
+    
+      <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【番茄散蛋花汤|all怪】继母</title>
     <link href="http://yoursite.com/allguaixiaoma/"/>
     <id>http://yoursite.com/allguaixiaoma/</id>
     <published>2023-01-13T15:12:00.000Z</published>
-    <updated>2023-01-13T15:44:57.578Z</updated>
+    <updated>2023-04-30T08:55:21.206Z</updated>
     
     <summary type="html">
     
@@ -462,31 +491,6 @@
     
       <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>【sk8/爱兰】Lotus.(R)</title>
-    <link href="http://yoursite.com/lotus/"/>
-    <id>http://yoursite.com/lotus/</id>
-    <published>2021-03-13T08:31:00.000Z</published>
-    <updated>2021-03-13T08:25:47.847Z</updated>
-    
-    <summary type="html">
-    
-      本篇含成人向内容，点击即默认您已同意看到此类内容，本站不为您的行为负责。请输入密码以访问。
-    
-    </summary>
-    
-    
-      <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
-    
-    
-      <category term="R" scheme="http://yoursite.com/tags/R/"/>
-    
-      <category term="sk8" scheme="http://yoursite.com/tags/sk8/"/>
-    
-      <category term="爱兰" scheme="http://yoursite.com/tags/%E7%88%B1%E5%85%B0/"/>
     
   </entry>
   
