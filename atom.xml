@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-04-30T09:15:57.527Z</updated>
+  <updated>2023-06-17T20:08:03.056Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【种地吧|群像】大宅（更新中）</title>
+    <link href="http://yoursite.com/dazhai/"/>
+    <id>http://yoursite.com/dazhai/</id>
+    <published>2023-06-17T20:31:00.000Z</published>
+    <updated>2023-06-17T20:08:03.056Z</updated>
+    
+    <summary type="html">
+    
+      本篇含成人向内容，点击即默认您已同意看到此类内容，本站不为您的行为负责。请输入密码以访问。
+    
+    </summary>
+    
+    
+      <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
+    
+    
+      <category term="R" scheme="http://yoursite.com/tags/R/"/>
+    
+      <category term="种地吧" scheme="http://yoursite.com/tags/%E7%A7%8D%E5%9C%B0%E5%90%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>妈妈。</title>
@@ -462,29 +485,6 @@
     
     
       <category term="全职高手" scheme="http://yoursite.com/tags/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>星芒落（未完待续）</title>
-    <link href="http://yoursite.com/xingmangluo/"/>
-    <id>http://yoursite.com/xingmangluo/</id>
-    <published>2021-08-04T00:12:00.000Z</published>
-    <updated>2021-08-03T16:36:40.862Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;Attention：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;致以我最亲爱的挚友女士，生日快乐！（对不起整太大了没写完）&lt;/p&gt;
-&lt;p&gt;古代江湖+魔法背景，有考据，但毕竟本人是理科生，请尽量当做架空时代看&lt;/p&gt;
-&lt;p&gt;语言没怎么有古风内味，我尽力了&lt;/p&gt;
-&lt;p&gt;故事可能有些老套，中学时代写的设定，但猜她会喜欢，所以无所谓了&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
-    
     
   </entry>
   
