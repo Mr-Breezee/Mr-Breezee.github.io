@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-06-17T20:08:03.056Z</updated>
+  <updated>2023-06-24T08:07:35.134Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【种地吧】筷子筒停车场</title>
+    <link href="http://yoursite.com/zhongdiyinpa/"/>
+    <id>http://yoursite.com/zhongdiyinpa/</id>
+    <published>2023-06-24T07:31:00.000Z</published>
+    <updated>2023-06-24T08:07:35.134Z</updated>
+    
+    <summary type="html">
+    
+      本篇含成人向内容，点击即默认您已同意看到此类内容，本站不为您的行为负责。请输入密码以访问。
+    
+    </summary>
+    
+    
+      <category term="杂散短篇" scheme="http://yoursite.com/categories/%E6%9D%82%E6%95%A3%E7%9F%AD%E7%AF%87/"/>
+    
+    
+      <category term="R" scheme="http://yoursite.com/tags/R/"/>
+    
+      <category term="种地吧" scheme="http://yoursite.com/tags/%E7%A7%8D%E5%9C%B0%E5%90%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【种地吧|群像】大宅（更新中）</title>
     <link href="http://yoursite.com/dazhai/"/>
     <id>http://yoursite.com/dazhai/</id>
     <published>2023-06-17T20:31:00.000Z</published>
-    <updated>2023-06-17T20:08:03.056Z</updated>
+    <updated>2023-06-17T20:16:26.297Z</updated>
     
     <summary type="html">
     
@@ -452,31 +475,6 @@
 &lt;p&gt;“你衣服掉红色了。”&lt;/p&gt;
 &lt;p&gt;黄少天自信答：&lt;/p&gt;
 &lt;p&gt;“我洗的校服，不会掉红色！”&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="【全职高手】荣耀26班博物志" scheme="http://yoursite.com/categories/%E3%80%90%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B%E3%80%91%E8%8D%A3%E8%80%8026%E7%8F%AD%E5%8D%9A%E7%89%A9%E5%BF%97/"/>
-    
-    
-      <category term="全职高手" scheme="http://yoursite.com/tags/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【博物志 70】生活就是起起落落</title>
-    <link href="http://yoursite.com/bowuzhi_70/"/>
-    <id>http://yoursite.com/bowuzhi_70/</id>
-    <published>2021-08-10T07:53:00.000Z</published>
-    <updated>2022-08-18T09:47:13.840Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;1.&lt;/p&gt;
-&lt;p&gt;北方开春的天气不稳定，&lt;/p&gt;
-&lt;p&gt;前两天一路升温，&lt;/p&gt;
-&lt;p&gt;大家的衣服逐渐&lt;/p&gt;
-&lt;p&gt;从羽绒服换到了单衣+校服外套。&lt;/p&gt;
     
     </summary>
     
